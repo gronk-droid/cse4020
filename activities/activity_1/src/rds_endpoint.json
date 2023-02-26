@@ -1,0 +1,7 @@
+{
+  "username": "gronk_droid",
+  "password": "oUAHxk8h7ckh4!k#f9Av",
+  "endpoint": "bankdb.cjnvcofn500z.us-east-1.rds.amazonaws.com",
+  "port": "3306",
+  "db_name": "cse4020"
+}
